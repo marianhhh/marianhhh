@@ -4,7 +4,7 @@
 <h3 align="center">Senior Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Backend-focused+Full+Stack+Engineer;Node.js+%7C+TypeScript+%7C+React;Turning+complex+problems+into+simple+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Backend-focused+Full+Stack+Engineer;Node.js+%7C+TypeScript+%7C+React;Turning+complex+problems+into+simple+solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,28 +24,33 @@ I believe good engineering is not just about making things work — it's about b
 ### `$ tech-stack`
 
 **Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js" />
+  <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript and JavaScript" />
 </p>
 
 **Backend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" alt="Node.js, NestJS, Express and GraphQL" />
 </p>
 
 **Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass" alt="React, Next.js, HTML, CSS and Sass" />
 </p>
 
 **Databases**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB and Redis" />
 </p>
 
 **DevOps & Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,git,github,postman" alt="Docker, AWS, GCP, GitHub Actions, Git and Postman" />
 </p>
 
 ---
@@ -99,11 +104,8 @@ Always interested in interesting engineering challenges, meaningful projects, an
 ### `$ connect`
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/marian-hupalo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
